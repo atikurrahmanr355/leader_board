@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.imgs{
+    height: 30px;
+    margin-right: 15px;
+}
+.profile{
+    height: 30px;
+    margin-left: 15px;
+}
+.pleyerandblog .container{
+    background-color: white;
+}
+.player{
+    height: 56px;
+    width: 56px;
+}
+.topblog .container{
+    background-color: white;
+    padding-left: 30px;
+}
+.latestcourse .container{
+    background-color: white;
+    padding-left: 30px;
+}
+.fa-solid{
+    color: darkorange;
+    margin-right: 5px;
+}
+.clocks{
+    height: 30px;
+    width: 90px;
+    color: rgb(113, 114, 43);
+    background-color: #FFE4E8;
+    padding: 5px;
+    border-radius: 10px;
+}
